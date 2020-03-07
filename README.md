@@ -1,5 +1,5 @@
-# Flutter Netflix UI Redesign
+# UI NETFLIX
 
-[YouTube Speed Code](https://youtu.be/sgfMdhV4HQI)
+https://www.youtube.com/watch?v=sgfMdhV4HQI&feature=youtu.be
 
-[Design Credit](https://dribbble.com/shots/5026483-Netflix-Mobile-App-Redesign/)
+<img src="https://raw.githubusercontent.com/flutterdotid/ui_netflix/master/Screenshot_1.png">
